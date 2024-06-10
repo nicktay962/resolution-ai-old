@@ -1,0 +1,29 @@
+[33mcommit 7cc368b94b5ee273a9f75e6668406b333842a684[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: nicktay962 <nicktay962@gmail.com>
+Date:   Mon Jun 10 18:03:57 2024 +0800
+
+    Update server.js to use MongoDB client for connection
+
+[33mcommit 073b5425dad2fdd17beeaa444c5a3d7879f5a7c8[m
+Author: nicktay962 <nicktay962@gmail.com>
+Date:   Mon Jun 10 18:00:31 2024 +0800
+
+    Remove deprecated mongoose options
+
+[33mcommit c297bb2309b36e210b4c664fbdb47aa8acbed96f[m
+Author: nicktay962 <nicktay962@gmail.com>
+Date:   Mon Jun 10 17:19:07 2024 +0800
+
+    Update server.js to use environment variables for MongoDB URI
+
+[33mcommit 140483c1c32268a4872617fa2c6e19a3648db4bc[m
+Author: nicktay962 <nicktay962@gmail.com>
+Date:   Mon Jun 10 17:17:25 2024 +0800
+
+    Add .gitignore to ignore environment variables and other common files
+
+[33mcommit d1aebea07968edc53cdf217b4046d330d4e2379f[m
+Author: nicktay962 <nicktay962@gmail.com>
+Date:   Mon Jun 10 16:06:17 2024 +0800
+
+    Initial commit
